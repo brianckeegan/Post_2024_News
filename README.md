@@ -25,17 +25,20 @@ Here is a list of news organizations, newsletters, and writers that are audience
 * [19th News](https://19thnews.org/)
 * [Rewire News](https://rewirenewsgroup.com/)
 * [Reveal News](https://revealnews.org/)
+* [Assigned Media](https://www.assignedmedia.org/)
 
 ### Race
 * [The Marshall Project](https://www.themarshallproject.org/)
 * [Black Agenda Report](https://www.blackagendareport.com/)
 * [Hammer & Hope](https://hammerandhope.org/)
+* [Capital B News](https://capitalbnews.org/)
 
 ### Criminal justice
 * [The Appeal](https://theappeal.org/)
 * [Borderless](https://borderlessmag.org/)
 * [Prism](https://prismreports.org/)
 * [Inquest](https://inquest.org/)
+* [Bolts](https://boltsmag.org/)
 
 ### Climate & environment
 * [Inside Climate News](https://insideclimatenews.org/)
@@ -56,16 +59,6 @@ Here is a list of news organizations, newsletters, and writers that are audience
 * [404 Media](https://www.404media.co/)
 * [Platformer.news](https://platformer.news/)
 
-### Immigration
-- [Documented](https://documentedny.com/)
-
-### NYC
-- [The City](https://www.thecity.nyc/)
-- [Hellgate](https://hellgatenyc.com/)
-
-### Arts
-- [Hyperallergic](https://hyperallergic.com/)
-
 ## Opinion
 * [The Marginalian](https://www.themarginalian.org/)
 * [The Progressive](https://progressive.org/)
@@ -81,7 +74,4 @@ Here is a list of news organizations, newsletters, and writers that are audience
 
 ## Lists of independent media
 * [Trustworthy Media](https://www.trustworthymedia.org/list-of-independent-media/)
-* [Movement Media Allaince](https://movement-media.org/)
-
-## Curated article links
-- [The Morning News](https://themorningnews.org/)
+* [Movement Media Alliance](https://movement-media.org/)
