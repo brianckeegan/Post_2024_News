@@ -39,6 +39,7 @@ Here is a list of news organizations, newsletters, and writers that are audience
 * [Prism](https://prismreports.org/)
 * [Inquest](https://inquest.org/)
 * [Bolts](https://boltsmag.org/)
+* [Balls & Strikes](ballsandstrikes.org)
 
 ### Climate & environment
 * [Inside Climate News](https://insideclimatenews.org/)
