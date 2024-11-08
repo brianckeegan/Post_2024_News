@@ -72,6 +72,7 @@ Here is a list of news organizations, newsletters, and writers that are audience
 * [Common Dreams](https://www.commondreams.org/)
 * [The New Republic](https://newrepublic.com/)
 * [Truthout](https://truthout.org/)
+* [CrimeThinc](https://crimethinc.com/)
 
 ## Lists of independent media
 * [Trustworthy Media](https://www.trustworthymedia.org/list-of-independent-media/)
